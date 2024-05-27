@@ -21,20 +21,28 @@ export class NewsService {
                             <html lang="pt-BR">
                             <head>
                                 <meta charset="UTF-8">
-                                <title>Banco Central libera consulta a dinhelis esquac du em brancos</title>
+                                <title>Banco Central libera consulta a dinheiro esquecido em bancos</title>
                             </head>
                             <body>
-                                <h1>Banco Central libera consulta a dinhelis esquac du em brancos</h1>
-                                <p>O Banco Central informou nesta segunda-feira (14) que a partir de agora os brasileiros podem consultar
-                                seus débitos inadimplidos e protestos em branco através da plataforma Dinheiro esquecido. A medida visa
-                                facilitar o acesso à informação e ajudar os consumidores a regularizarem suas pendências.</p>
-                                <p>Para consultar seus débitos, basta acessar o site do Banco Central e digitar seu CPF. O sistema
-                                exibirá uma lista com todos os seus débitos em branco, incluindo o nome da empresa credora, o valor
-                                da dívida e a data de vencimento.</p>
-                                <p>Para regularizar uma dívida, o consumidor pode clicar no botão "Pagar" e escolher a forma de
-                                pagamento desejada. O pagamento pode ser feito com cartão de crédito, débito online ou boleto
-                                bancário.</p>
-                                <p>O Banco Central ressalta que a consulta é gratuita e pode ser realizada a qualquer momento.</p>
+                                <h1>Banco Central libera consulta a dinheiro esquecido em bancos </h1>
+                                </br>
+                                </br>
+                                <p>O Banco Central informou nesta segunda-feira (14) que quem não tiver valores a receber nesta etapa das consultas ao novo site de consulta aos recursos 'esquecidos' nos bancos poderá eventualmente ter nas próximas fases do sistema. </p>
+                                </br>
+                                </br>
+                                <p>Muitos clientes que acessam o sistema têm recebido a mensagem para retornar a consulta em 2 de maio (veja na imagem mais abaixo).</p>
+                                </br>
+                                </br>
+                                <p>"Quem não tiver valores a receber nesta etapa poderá ter nas próximas fases", informou o BC ao ser questionado pelo g1. Isso acontece porque, ao todo, os bancos têm R$ 8 bilhões a devolver aos clientes. Mas, nesta primeira fase, foram abertas consultas referentes à metade, R$ 4 bilhões. </p>
+                                </br>
+                                </br>
+                                <p>Banco Central libera consulta de dinheiro ‘esquecido’ em bancos: saiba como fazer </p>
+                                </br>
+                                </br>
+                                <p>Em 2 de maio, as consultas a uma nova fase serão abertas. O BC não informou, no entanto, se todos os R$ 4 bilhões restantes serão liberados para consultas nesta segunda fase. Em janeiro, no entanto, o BC afirmou que todos os recursos seriam liberados 'ao longo de 2022'. </p>
+                                </br>
+                                </br>
+                                <p>Página do BC informa que cidadão sem valores a receber atualmente poderá fazer nova consulta a partir de maio. </p>
                             </body>
                             </html>
 
