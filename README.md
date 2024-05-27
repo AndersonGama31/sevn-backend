@@ -2,10 +2,6 @@ SEVN News API
 
 Uma API RESTful que fornece dados mockados para artigos de notícias, organizados em três endpoints principais.
 
-## Estrutura do Projeto
-
-O projeto foi desenvolvido utilizando o framework [AdonisJS](https://adonisjs.com/), que é um framework Node.js que facilita a criação de APIs RESTful.
-
 ## Endpoints
 
 A API possui três endpoints principais:
