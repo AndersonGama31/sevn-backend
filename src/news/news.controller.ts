@@ -9,6 +9,11 @@ import { NewsService } from './news.service'
 export class NewsController {
     constructor(private readonly newsService: NewsService) { }
 
+    @Get('secondary')
+    findAllSecondaryNews() {
+        return this.newsService.findAllSecondaryNews()
+    }
+
     @Get()
     findAll() {
         return this.newsService.findAll()
@@ -17,10 +22,5 @@ export class NewsController {
     @Get(':id')
     findOne(@Param('id') id: string) {
         return this.newsService.findOne(id)
-    }
-
-    @Get('secondary')
-    findAllSecondaryNews() {
-        return this.newsService.findAllSecondaryNews()
     }
 }
